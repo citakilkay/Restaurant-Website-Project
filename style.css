@@ -1,0 +1,28 @@
+.bg-primary {
+  background-color: #563e81 !important;
+}
+
+.bg-secondary {
+  background-color: #bd9fec !important;
+}
+
+.bg-pink {
+  background-color: #9575cd;
+}
+
+.bg-warning {
+  background-color: #d8a039;
+}
+
+label input[type="radio"] {
+  display: none;
+}
+
+.modal-header {
+  background-color: #5133a5;
+}
+
+.modal-content {
+  background-color: #cdccce;
+}
+/*# sourceMappingURL=style.css.map */

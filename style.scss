@@ -1,0 +1,30 @@
+$color-primary: #563e81 !important;
+$color-secondary: #bd9fec !important;
+$color-pink: #9575cd;
+$color-warning:#d8a039;
+$color-modalhead:#5133a5;
+$color-modalbody:#cdccce;
+.bg-primary{
+    background-color: $color-primary;
+}
+.bg-secondary{
+    background-color: $color-secondary;
+}
+.bg-pink{
+    background-color: $color-pink;
+}
+.bg-warning{
+    background-color:$color-warning;
+}
+label{
+    & input[type="radio"] {
+    display:none;
+    }
+}
+.modal-header{
+    background-color: $color-modalhead;
+     
+}
+.modal-content{
+    background-color: $color-modalbody;
+}
